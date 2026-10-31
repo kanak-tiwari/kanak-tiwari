@@ -22,8 +22,8 @@ Ticket booking app with seat selection, double-booking prevention, PDF e-tickets
 
 ## 📫 Connect with me
 
-- LinkedIn: [Kanak Tiwari](https://www.linkedin.com/in/<your-linkedin-id>)
-- Email: <your-email>
+- LinkedIn: [https://www.linkedin.com/in/kanak-tiwari-84b06342a)
+- Email: <kanakt96910@gmail.com>
 
 ---
 ⭐ Feel free to check out my repositories!
